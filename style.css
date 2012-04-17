@@ -1,0 +1,29 @@
+﻿body
+{
+    font-family:Segoe UI Light;
+    font-size:18px;
+    color:#333333;
+    background-color:#eeffff;
+}
+.wrapper 
+{
+    padding:0;
+    width: 45%;
+    margin:auto;
+}
+.middle 
+{
+    text-align:center;
+}
+h1 
+{
+    font-size:80px;
+    text-decoration:none;
+    font-weight:bold;
+    margin:20px 0;
+}
+h2 
+{
+    font-size:50px;
+    font-weight:bolder;
+}
